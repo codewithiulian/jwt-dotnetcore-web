@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = JwtApp
+build_property.ProjectDir = D:\Projects\Code with Julian\2021\45. JWT Authentication\Project\tutorial\JwtApp\
